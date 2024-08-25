@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9CFF00&center=true&random=true&width=435&lines=Always+learning+new+things.;A+web+and+discord+bot+developer.;Experienced+at+multiple+language.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=9CFF00&center=true&vCenter=true&random=true&width=435&lines=Always+learning+new+things.;A+web+and+discord+bot+developer.;Experienced+at+multiple+language.)](https://git.io/typing-svg)
