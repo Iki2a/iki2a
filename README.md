@@ -17,4 +17,4 @@ Here are some of my most recent projects:
 
 ## Connect with me
 
-You can find me on [my website](https://fcd.im), [Twitter](https://twitter.com/folfcoder), and [Instagram](https://instagram.com/folfcoder).
+You can find me on [my website](https://devkie.my.id) and [Instagram](https://instagram.com/reiki_.ik).
