@@ -1,14 +1,10 @@
 # 👋 Welcome to Reiki's Github Profile
 
-![](https://github.com/folfcoder/folfcoder/assets/40331046/46624155-24fe-4e61-b643-5d53d6d4ca1d)
-
 Hi there! I'm Reiki from Indonesia. I'm passionate about full-stack development.
 
 ## Projects
 
 Here are some of my most recent projects:
-
-More on [[git.fcd.im]([https://git.fcd.im/](https://github.com/Iki2a)).](https://github.com/Iki2a)
 
 ## Stack
 
