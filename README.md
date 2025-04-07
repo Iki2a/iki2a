@@ -18,4 +18,4 @@ Here are some of my most recent projects:
 
 ## Connect with me
 
-You can find me on [my website](https://devkie.my.id) and [Instagram](https://instagram.com/reiki_.ik).
+Check out [my website](https://devkie.my.id) and connect with me on [Instagram](https://instagram.com/reiki_.ik).
