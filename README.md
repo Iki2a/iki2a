@@ -17,6 +17,7 @@ Here are some of my most recent projects:
 
 
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-47A248?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Connect with me
 
