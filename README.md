@@ -14,7 +14,7 @@
 * 💻 Specializing in **Full-Stack Development** (Web & Mobile).
 * 🏅 Officially selected as a **Google Student Ambassador (GSA) 2026** and a **Gemini Certified Student**.
 * 🌱 Building communities and tech projects at **BeeTerm Labs** & **BeeJockey**.
-* ⚡ Fun fact: I love exploring the latest AI tools (like Gemini, NotebookLM, and Veo) and integrating them into everyday workflows.
+* ⚡ Fun fact: I'm a big fan of **automation stuff**! I love exploring the latest AI tools (like Gemini, NotebookLM, and Veo) and integrating them into everyday workflows to make things run seamlessly.
 
 ---
 
@@ -48,8 +48,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iki2a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iki2a&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:reiikierana@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
