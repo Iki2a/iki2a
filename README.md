@@ -44,23 +44,3 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iki2a&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iki2a&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-### 📫 Let's Connect!
-
-<div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_PROFILE">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:reiikierana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
