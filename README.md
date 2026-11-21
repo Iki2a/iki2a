@@ -2,11 +2,11 @@
 
 <h1>Hi, I'm Reiki 👋</h1>
 
-<p><strong>Full-stack developer · CS student at BINUS · Google Student Ambassador '26</strong></p>
+<p><strong>SWE · CS Student at BINUS · Google Student Ambassador '26</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1200&amp;color=7C3AED&amp;center=true&amp;vCenter=true&amp;width=600&amp;height=45&amp;lines=Building+useful+things+for+web+%26+desktop;Always+learning%2C+always+shipping." alt="Building useful things for web and desktop. Always learning, always shipping." />
 
-<p><a href="#selected-projects">Projects</a> · <a href="https://www.linkedin.com/in/reiki-ik/">LinkedIn</a> · <a href="https://www.instagram.com/reiki_.ik/">Instagram</a></p>
+<p><a href="#selected-projects">Projects</a> · <a href="https://www.linkedin.com/in/reiki-ik/">LinkedIn</a> · <a href="https://www.instagram.com/rei.kierana/">Instagram</a></p>
 
 </div>
 
